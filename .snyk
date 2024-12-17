@@ -1,0 +1,9 @@
+custom_rules:
+  - id: rule
+    description: rule
+    severity: low
+    cwe: [CWE-798]
+    fix_analysis: ''
+    rule_code: app
+    languages:
+      - javascript
